@@ -9,7 +9,7 @@ Desarrollador web full Stack en progreso con <a href="https://oxygenacademy.es/"
 [![GitHub mlevitorresv](https://img.shields.io/github/followers/mlevitorresv?label=follow&style=social)](https://github.com/mlevitorresv)
 
 
-###Un poco mas sobre mi...  
+### Un poco mas sobre mi...  
 
 ```javascript
 const mlevitorresv = {
