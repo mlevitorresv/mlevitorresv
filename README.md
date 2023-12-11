@@ -5,7 +5,7 @@
 Desarrollador web full Stack en progreso con <a href="https://oxygenacademy.es/">OXYGEN ACADEMY</a> 
 </em></p>
 
-[![Linkedin: Manuel Leví Torres Vicente](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-lev%C3%AD-torres-vicente-abb347241//)](https://www.linkedin.com/in/manuel-lev%C3%AD-torres-vicente-abb347241/)
+[![Linkedin: Manuel Leví Torres Vicente](https://img.shields.io/badge/-mlevitorresv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-lev%C3%AD-torres-vicente-abb347241//)](https://www.linkedin.com/in/manuel-lev%C3%AD-torres-vicente-abb347241/)
 [![GitHub mlevitorresv](https://img.shields.io/github/followers/mlevitorresv?label=follow&style=social)](https://github.com/mlevitorresv)
 
 
