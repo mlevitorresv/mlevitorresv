@@ -19,7 +19,7 @@ const mlevitorresv = {
 }
 ```
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="center">Estadísticas de mi github :bar_chart:</h2>
 <h4 align="center">Contador de visitantes :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mlevitorresv}/count.svg" alt="mlevitorresv :: Visitor's Count" /></p>
@@ -27,6 +27,11 @@ const mlevitorresv = {
 <h4 align="center">Mis lenguajes :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlevitorresv&langs_count=10&theme=tokyonight&layout=compact" alt="mlevitorresv :: Top Langs" /></p>
+
+<h4 align="center">Estadísticas de mi perfil :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mlevitorresv&show_icons=true&theme=synthwave" alt="mlevitorresv :: Profile Stats" /></p>
+
 ---
 
 ⭐️ From [@mlevitorresv](https://github.com/mlevitorresv)
