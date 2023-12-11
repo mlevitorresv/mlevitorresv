@@ -1,5 +1,5 @@
 <h2> Hola, soy Manuel Leví!</h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47k711e5gthvl8zku159y5rpw459mo6jtgiu8ceemp&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="230">
+<img align='right' src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47k711e5gthvl8zku159y5rpw459mo6jtgiu8ceemp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 <p><em>Técnico superior en desarrollo de aplicaciones multiplataforma
 </br>
 Desarrollador web full Stack en progreso con <a href="https://oxygenacademy.es/">OXYGEN ACADEMY</a> 
