@@ -18,6 +18,12 @@ const mlevitorresv = {
   SoftSkills: [Trabajo en equipo, ordenado, adaptación]
 }
 ```
+
+<h2 align="center">Github stats :bar_chart:</h2>
+<h4 align="center">Contador de visitantes :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{mlevitorresv}/count.svg" alt="mlevitorresv :: Visitor's Count" /></p>
+
 ---
 
 ⭐️ From [@mlevitorresv](https://github.com/mlevitorresv)
