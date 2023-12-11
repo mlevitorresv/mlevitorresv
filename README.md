@@ -24,6 +24,9 @@ const mlevitorresv = {
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mlevitorresv}/count.svg" alt="mlevitorresv :: Visitor's Count" /></p>
 
+<h4 align="center">Mis lenguajes :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlevitorresv&langs_count=10&theme=tokyonight&layout=compact" alt="mlevitorresv :: Top Langs" /></p>
 ---
 
 ⭐️ From [@mlevitorresv](https://github.com/mlevitorresv)
