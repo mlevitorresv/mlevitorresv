@@ -13,7 +13,7 @@ Desarrollador web full Stack en progreso con <a href="https://oxygenacademy.es/"
 
 ```javascript
 const mlevitorresv = {
-  código: [Javascript, Typescript, HTML, CSS, Java, SASS, BEM, React, Redux, Styled-Components, Jest ],
+  código: [Javascript, Typescript, HTML, CSS, Java, SASS, BEM, React, Redux, Styled-Components, Jest, Python, Django ],
   herramientas: [PostMan, Cypress],
   SoftSkills: [Trabajo en equipo, ordenado, adaptación]
 }
